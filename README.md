@@ -3,4 +3,3 @@
 - 🌱 I’m currently Doing Internship in Full Stack Web Development at Tech-Radix Pvt Ltd;
 - 💞️ I’m looking to collaborate on nothing;
 - 📫 How to reach me email me amanislive1@gmail.com;
--
